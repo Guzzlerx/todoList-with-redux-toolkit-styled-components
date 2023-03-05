@@ -1,1 +1,1 @@
-# todoList-with-redux-toolkit-styled-components
+# TodoList на React+Redux+TS+Styled Components
